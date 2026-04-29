@@ -2,6 +2,9 @@
 
 Proyek ini merupakan proyek yang merupakan tugas dari kursus advanced data analytics yang merupakan kursus sertifikasi data analysis yang diadakan oleh coursera.
 
+**Tujuan**
+Untuk merancang sebuah model yang memprediksi apakah seorang karyawan akan meninggalkan perusahaan berdasarkan jabatan, departemen, jumlah proyek, jam kerja bulanan rata-rata, dan poin data relevan lainnya. 
+
 ### Mempelajari dan Memahami dataset HR
 
 Pada [dataset](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv) ini, Terdapat 14.999 baris, 10 kolom, dan variabel-variabel berikut:
